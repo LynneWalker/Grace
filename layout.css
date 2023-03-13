@@ -1,0 +1,66 @@
+.mother{
+    background-color:cornflowerblue;
+    height: 800px;
+    width: 1000px;
+    margin: auto;
+}
+.sister{
+    background-color: bisque;
+    height: 400px;
+    width: 800px;
+    margin: 100px;
+}
+.child{
+    background-color: darksalmon;
+    height: 400px;
+    width: 400px;
+
+}
+.first{
+    float: left;
+    background-color:white;
+}
+.second{
+    float: right;
+    background-color:rgb(80, 245, 245);
+}
+.logo{
+    padding-top: 50px;
+    padding-left: 180px;
+    padding-right: 50px;
+    
+}
+.puppy{
+    height: 200px;
+    width: 300px;
+    padding-left: 50px;
+    padding-top: 50px;
+
+}
+.write{
+    border: 0px;
+    box-shadow: 1px 2px 1px grey;
+    padding: 8px;
+    width: 200px;
+    margin-left: 100px;
+    border-radius: 5px;
+    color: rgb(160, 156, 156);
+}
+.forgot{
+    margin-left: 100px;
+}
+.button{
+    border: 0px;
+    background-color:rgb(45, 204, 204);
+    width: 200px;
+    margin-left:100px ;
+}
+.dont{
+    margin-left: 100px;
+    border: 0px;
+    color: grey;
+}
+.heading{
+    margin-left: 100px;
+
+}
