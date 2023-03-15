@@ -62,5 +62,14 @@
 }
 .heading{
     margin-left: 100px;
+    color: rgb(33, 33, 33);
 
+}
+.laser{
+    border: 0px;
+    margin-block: 10px;
+    margin-left: 100px;
+    font-style: italic;
+    font-family: fantasy;
+    
 }

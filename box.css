@@ -1,0 +1,46 @@
+.motherbox{
+    border: 8px mediumseagreen solid;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+}
+#babybox{
+    height: 200px;
+    width: 200px;
+    border-top: 4px dotted rebeccapurple;
+    border-bottom: 5px blueviolet dashed;
+    border-left: 5px darkorchid solid;
+    border-right: 15px darkmagenta double;
+}
+.box1{
+    border-radius: 10px;
+    border: 3px maroon solid;
+    width: 600px;
+    height: 600px;
+    margin: 50px 40px;
+    box-shadow: 50px 50px gray;
+}
+#box2{
+    width: 400px;
+    height: 400px;
+    margin: 80px;
+    border: 5px coral solid;
+    background-color: rgb(146, 178, 237);
+    border-top-left-radius: 100px;
+    border-top: chocolate;
+    box-shadow: 20px 20px 10px palevioletred;
+
+}
+.box3{
+    background-color: teal;
+    border: 5px hotpink solid;
+    height: 200px;
+    width: 200px;
+    margin: 100px;
+    border-radius: 50%;
+    padding-top: 2px;
+    box-shadow: 20px 20px 50px;
+
+    
+
+}
