@@ -1,0 +1,19 @@
+.container{
+    background-color: rgb(77, 163, 206);
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    grid-template-rows: 60px 80px 100px;
+    padding: 20px;
+    justify-content:space-evenly;
+}
+.container>div{
+background-color: lightskyblue;
+}
+.container>p{
+    text-decoration: underline;
+    color: rgb(186, 47, 202);
+}
+.container>div>p{
+    color: rgb(227, 25, 65);
+}
