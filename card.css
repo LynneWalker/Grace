@@ -1,0 +1,69 @@
+.mother{
+    background-color: aliceblue;
+    height: 600px;
+    width: 400px;
+    margin: auto;
+    border: 3px palevioletred solid;
+    box-shadow:4px 4px 4px gray;
+    border-radius: 8px;
+
+    
+}
+.child1{
+    background-color: rgb(121, 3, 121);
+    height: 200px;
+    width: 400px;
+    margin: auto;
+    border-radius: 2px;
+    
+}
+.child2{
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    
+}
+.heading2{
+    text-decoration: underline;
+    color: plum;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    font-size: large;
+}
+.heading{
+    font-size: medium;
+    font-style: italic;
+    color: indigo;
+}
+.image{
+    
+    height: 100px;
+    width: 100px;
+    padding-left: 150px;
+    scroll-padding: 10px;
+    padding-bottom: 20px;
+    position: absolute;
+    top: 170px;
+    
+
+}
+.puppy{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    border: 2px wheat solid;
+    margin-top: auto;
+    
+
+}
+.button{
+    background-color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: palevioletred;
+    width: 100px;
+    border-radius: 20px;
+    height: 30px;
+
+}
